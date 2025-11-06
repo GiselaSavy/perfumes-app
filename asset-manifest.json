@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/perfumes-app/static/css/main.a709079f.css",
+    "main.js": "/perfumes-app/static/js/main.15e5d423.js",
+    "index.html": "/perfumes-app/index.html",
+    "main.a709079f.css.map": "/perfumes-app/static/css/main.a709079f.css.map",
+    "main.15e5d423.js.map": "/perfumes-app/static/js/main.15e5d423.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a709079f.css",
+    "static/js/main.15e5d423.js"
+  ]
+}
