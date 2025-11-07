@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/perfumes-app/static/css/main.a709079f.css",
-    "main.js": "/perfumes-app/static/js/main.b90407ad.js",
+    "main.js": "/perfumes-app/static/js/main.db4bac65.js",
     "index.html": "/perfumes-app/index.html",
     "main.a709079f.css.map": "/perfumes-app/static/css/main.a709079f.css.map",
-    "main.b90407ad.js.map": "/perfumes-app/static/js/main.b90407ad.js.map"
+    "main.db4bac65.js.map": "/perfumes-app/static/js/main.db4bac65.js.map"
   },
   "entrypoints": [
     "static/css/main.a709079f.css",
-    "static/js/main.b90407ad.js"
+    "static/js/main.db4bac65.js"
   ]
 }
